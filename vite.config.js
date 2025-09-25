@@ -35,7 +35,7 @@ export default defineConfig(({ command }) => {
           },
         },
       },
-      outDir: 'docs',
+      outDir: '../docs',
       emptyOutDir: true,
     },
     plugins: [
